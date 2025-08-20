@@ -4,4 +4,7 @@ __pycache__
 .ipynb_checkpoints
 *.log
 *.code-workspace
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8a140dfb54d46214eb5b443b7d543327f1a36e5
